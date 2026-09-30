@@ -1,5 +1,9 @@
 # Heart Failure 30-Day Readmission Prediction
 
+## 🚀 Live Streamlit App
+
+[Click here to open the live application](https://heart-failure-readmission5.streamlit.app/)# Heart Failure 30-Day Readmission Prediction
+
 ## Files
 - `Heart_Failure_30_Day_Readmission_Project.ipynb` — complete reproducible notebook
 - `model_comparison.csv` — final test metrics and confusion-matrix counts
